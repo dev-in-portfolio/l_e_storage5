@@ -1,0 +1,9 @@
+{
+  "path": "Lulu_and_Ellie_Go_To_Camp_5.pdf",
+  "size": 112974632,
+  "sha256": "94a74394390e98708ba42556a492a9ecf8e9ce6df352d8238b7b7566f775f512",
+  "chunks": [
+    ".chunks/Camp5.part001",
+    ".chunks/Camp5.part002"
+  ]
+}
